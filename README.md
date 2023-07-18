@@ -16,8 +16,8 @@
     <li>Descarga e instala la aplicación en tu sistema.</li>
     <li>Selecciona la opción de fiscalización de vehículos.</li>
     <li>Ingresa los datos requeridos</li>
-    <li>Guarda los datos fiscalizados y sincroniza con la base de datos central.</li>
-   <li>Ingresa los datos requeridos</li>
+    <li>Guarda los datos fiscalizados.</li>
+   <li>Tambien podes buscar registros cargados</li>
   </ul>
 
 
@@ -28,7 +28,7 @@
 ![Menu Pincipal](https://github.com/Rivan181/Fisca/assets/122496733/f3c30a03-3e6e-4c87-8d81-712228720d6b)
 
 <h3>Paso 2</h3>
-![Login](https://github.com/Rivan181/Fisca/assets/122496733/ae32f29c-9fb9-4841-a919-cd6aba3109e0)
+![Login](https://github.com/Rivan181/Fisca/assets/122496733/b1f21429-0335-459c-86c0-ef873184b2aa)
 
 <h3>Paso 3</h3>
 ![Menu usuario](https://github.com/Rivan181/Fisca/assets/122496733/bcd2e0c9-911e-4936-a110-fe6cc5b9055d)
