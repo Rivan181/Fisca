@@ -24,6 +24,7 @@
 ¡Disfruta de una experiencia más eficiente y precisa en el proceso de fiscalización de vehículos con nuestra aplicación!
 
 <h3>Paso 1</h3>
+<img src="[ruta/a/la/imagen.jpg](https://github.com/Rivan181/Fisca/assets/122496733/83948266-a3e5-4921-9fb4-b41e925c1566)" alt="Menu Pincipal">
 ![Menu Pincipal](https://github.com/Rivan181/Fisca/assets/122496733/83948266-a3e5-4921-9fb4-b41e925c1566)
 
 <h3>Paso 1</h3>
