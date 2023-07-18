@@ -7,7 +7,7 @@ public class principal {
 		   
 		   paneles p1 = new paneles();
 		   p1.setVisible(true); //ventana visible
-		   
+		  
 		   
 		   
 		   
