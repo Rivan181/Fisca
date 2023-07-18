@@ -3,7 +3,6 @@ package views;
 import java.awt.Color;
 import java.awt.EventQueue;
 import java.awt.Font;
-import java.awt.Toolkit;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseMotionAdapter;
@@ -23,7 +22,6 @@ import javax.swing.SwingConstants;
 import javax.swing.border.EmptyBorder;
 import javax.swing.table.DefaultTableModel;
 
-import Logica.ResumenDao;
 import Logica.RegistroDao;
 
 @SuppressWarnings("serial")
@@ -31,10 +29,8 @@ public class Busqueda extends JFrame {
 
 	private JPanel contentPane;
 	private JTextField txtBuscar;
-	private JTable tbHuespedes;
 	private JTable tbRegistros;
 	private DefaultTableModel modelo;
-	private DefaultTableModel modeloHuesped;
 	private JLabel labelAtras;
 	private JLabel labelExit;
 	int xMouse, yMouse;
